@@ -1,0 +1,998 @@
+{
+    "Aruba": {
+        "two_letter_code": "AW",
+        "camel_case_name": "aruba"
+    },
+    "Afghanistan": {
+        "two_letter_code": "AF",
+        "camel_case_name": "afghanistan"
+    },
+    "Angola": {
+        "two_letter_code": "AO",
+        "camel_case_name": "angola"
+    },
+    "Anguilla": {
+        "two_letter_code": "AI",
+        "camel_case_name": "anguilla"
+    },
+    "land Islands": {
+        "two_letter_code": "AX",
+        "camel_case_name": "land_islands"
+    },
+    "Albania": {
+        "two_letter_code": "AL",
+        "camel_case_name": "albania"
+    },
+    "Andorra": {
+        "two_letter_code": "AD",
+        "camel_case_name": "andorra"
+    },
+    "United Arab Emirates": {
+        "two_letter_code": "AE",
+        "camel_case_name": "united_arab_emirates"
+    },
+    "Argentina": {
+        "two_letter_code": "AR",
+        "camel_case_name": "argentina"
+    },
+    "Armenia": {
+        "two_letter_code": "AM",
+        "camel_case_name": "armenia"
+    },
+    "American Samoa": {
+        "two_letter_code": "AS",
+        "camel_case_name": "american_samoa"
+    },
+    "Antarctica": {
+        "two_letter_code": "AQ",
+        "camel_case_name": "antarctica"
+    },
+    "French Southern Territories": {
+        "two_letter_code": "TF",
+        "camel_case_name": "french_southern_territories"
+    },
+    "Antigua and Barbuda": {
+        "two_letter_code": "AG",
+        "camel_case_name": "antigua_and_barbuda"
+    },
+    "Australia": {
+        "two_letter_code": "AU",
+        "camel_case_name": "australia"
+    },
+    "Austria": {
+        "two_letter_code": "AT",
+        "camel_case_name": "austria"
+    },
+    "Azerbaijan": {
+        "two_letter_code": "AZ",
+        "camel_case_name": "azerbaijan"
+    },
+    "Burundi": {
+        "two_letter_code": "BI",
+        "camel_case_name": "burundi"
+    },
+    "Belgium": {
+        "two_letter_code": "BE",
+        "camel_case_name": "belgium"
+    },
+    "Benin": {
+        "two_letter_code": "BJ",
+        "camel_case_name": "benin"
+    },
+    "Bonaire, Sint Eustatius and Saba": {
+        "two_letter_code": "BQ",
+        "camel_case_name": "bonaire,_sint_eustatius_and_saba"
+    },
+    "Burkina Faso": {
+        "two_letter_code": "BF",
+        "camel_case_name": "burkina_faso"
+    },
+    "Bangladesh": {
+        "two_letter_code": "BD",
+        "camel_case_name": "bangladesh"
+    },
+    "Bulgaria": {
+        "two_letter_code": "BG",
+        "camel_case_name": "bulgaria"
+    },
+    "Bahrain": {
+        "two_letter_code": "BH",
+        "camel_case_name": "bahrain"
+    },
+    "Bahamas": {
+        "two_letter_code": "BS",
+        "camel_case_name": "bahamas"
+    },
+    "Bosnia and Herzegovina": {
+        "two_letter_code": "BA",
+        "camel_case_name": "bosnia_and_herzegovina"
+    },
+    "Saint Barth\u00e9lemy": {
+        "two_letter_code": "BL",
+        "camel_case_name": "saint_barth\u00e9lemy"
+    },
+    "Belarus": {
+        "two_letter_code": "BY",
+        "camel_case_name": "belarus"
+    },
+    "Belize": {
+        "two_letter_code": "BZ",
+        "camel_case_name": "belize"
+    },
+    "Bermuda": {
+        "two_letter_code": "BM",
+        "camel_case_name": "bermuda"
+    },
+    "Bolivia, Plurinational State of": {
+        "two_letter_code": "BO",
+        "camel_case_name": "bolivia,_plurinational_state_of"
+    },
+    "Brazil": {
+        "two_letter_code": "BR",
+        "camel_case_name": "brazil"
+    },
+    "Barbados": {
+        "two_letter_code": "BB",
+        "camel_case_name": "barbados"
+    },
+    "Brunei Darussalam": {
+        "two_letter_code": "BN",
+        "camel_case_name": "brunei_darussalam"
+    },
+    "Bhutan": {
+        "two_letter_code": "BT",
+        "camel_case_name": "bhutan"
+    },
+    "Bouvet Island": {
+        "two_letter_code": "BV",
+        "camel_case_name": "bouvet_island"
+    },
+    "Botswana": {
+        "two_letter_code": "BW",
+        "camel_case_name": "botswana"
+    },
+    "Central African Republic": {
+        "two_letter_code": "CF",
+        "camel_case_name": "central_african_republic"
+    },
+    "Canada": {
+        "two_letter_code": "CA",
+        "camel_case_name": "canada"
+    },
+    "Cocos (Keeling) Islands": {
+        "two_letter_code": "CC",
+        "camel_case_name": "cocos_(keeling)_islands"
+    },
+    "Switzerland": {
+        "two_letter_code": "CH",
+        "camel_case_name": "switzerland"
+    },
+    "Chile": {
+        "two_letter_code": "CL",
+        "camel_case_name": "chile"
+    },
+    "China": {
+        "two_letter_code": "CN",
+        "camel_case_name": "china"
+    },
+    "C\u00f4te d'Ivoire": {
+        "two_letter_code": "CI",
+        "camel_case_name": "c\u00f4te_d'ivoire"
+    },
+    "Cameroon": {
+        "two_letter_code": "CM",
+        "camel_case_name": "cameroon"
+    },
+    "Congo, The Democratic Republic of the": {
+        "two_letter_code": "CD",
+        "camel_case_name": "congo,_the_democratic_republic_of_the"
+    },
+    "Congo": {
+        "two_letter_code": "CG",
+        "camel_case_name": "congo"
+    },
+    "Cook Islands": {
+        "two_letter_code": "CK",
+        "camel_case_name": "cook_islands"
+    },
+    "Colombia": {
+        "two_letter_code": "CO",
+        "camel_case_name": "colombia"
+    },
+    "Comoros": {
+        "two_letter_code": "KM",
+        "camel_case_name": "comoros"
+    },
+    "Cabo Verde": {
+        "two_letter_code": "CV",
+        "camel_case_name": "cabo_verde"
+    },
+    "Costa Rica": {
+        "two_letter_code": "CR",
+        "camel_case_name": "costa_rica"
+    },
+    "Cuba": {
+        "two_letter_code": "CU",
+        "camel_case_name": "cuba"
+    },
+    "Cura\u00e7ao": {
+        "two_letter_code": "CW",
+        "camel_case_name": "cura\u00e7ao"
+    },
+    "Christmas Island": {
+        "two_letter_code": "CX",
+        "camel_case_name": "christmas_island"
+    },
+    "Cayman Islands": {
+        "two_letter_code": "KY",
+        "camel_case_name": "cayman_islands"
+    },
+    "Cyprus": {
+        "two_letter_code": "CY",
+        "camel_case_name": "cyprus"
+    },
+    "Czechia": {
+        "two_letter_code": "CZ",
+        "camel_case_name": "czechia"
+    },
+    "Germany": {
+        "two_letter_code": "DE",
+        "camel_case_name": "germany"
+    },
+    "Djibouti": {
+        "two_letter_code": "DJ",
+        "camel_case_name": "djibouti"
+    },
+    "Dominica": {
+        "two_letter_code": "DM",
+        "camel_case_name": "dominica"
+    },
+    "Denmark": {
+        "two_letter_code": "DK",
+        "camel_case_name": "denmark"
+    },
+    "Dominican Republic": {
+        "two_letter_code": "DO",
+        "camel_case_name": "dominican_republic"
+    },
+    "Algeria": {
+        "two_letter_code": "DZ",
+        "camel_case_name": "algeria"
+    },
+    "Ecuador": {
+        "two_letter_code": "EC",
+        "camel_case_name": "ecuador"
+    },
+    "Egypt": {
+        "two_letter_code": "EG",
+        "camel_case_name": "egypt"
+    },
+    "Eritrea": {
+        "two_letter_code": "ER",
+        "camel_case_name": "eritrea"
+    },
+    "Western Sahara": {
+        "two_letter_code": "EH",
+        "camel_case_name": "western_sahara"
+    },
+    "Spain": {
+        "two_letter_code": "ES",
+        "camel_case_name": "spain"
+    },
+    "Estonia": {
+        "two_letter_code": "EE",
+        "camel_case_name": "estonia"
+    },
+    "Ethiopia": {
+        "two_letter_code": "ET",
+        "camel_case_name": "ethiopia"
+    },
+    "Finland": {
+        "two_letter_code": "FI",
+        "camel_case_name": "finland"
+    },
+    "Fiji": {
+        "two_letter_code": "FJ",
+        "camel_case_name": "fiji"
+    },
+    "Falkland Islands (Malvinas)": {
+        "two_letter_code": "FK",
+        "camel_case_name": "falkland_islands_(malvinas)"
+    },
+    "France": {
+        "two_letter_code": "FR",
+        "camel_case_name": "france"
+    },
+    "Faroe Islands": {
+        "two_letter_code": "FO",
+        "camel_case_name": "faroe_islands"
+    },
+    "Micronesia, Federated States of": {
+        "two_letter_code": "FM",
+        "camel_case_name": "micronesia,_federated_states_of"
+    },
+    "Gabon": {
+        "two_letter_code": "GA",
+        "camel_case_name": "gabon"
+    },
+    "United Kingdom": {
+        "two_letter_code": "GB",
+        "camel_case_name": "united_kingdom"
+    },
+    "Georgia": {
+        "two_letter_code": "GE",
+        "camel_case_name": "georgia"
+    },
+    "Guernsey": {
+        "two_letter_code": "GG",
+        "camel_case_name": "guernsey"
+    },
+    "Ghana": {
+        "two_letter_code": "GH",
+        "camel_case_name": "ghana"
+    },
+    "Gibraltar": {
+        "two_letter_code": "GI",
+        "camel_case_name": "gibraltar"
+    },
+    "Guinea": {
+        "two_letter_code": "GN",
+        "camel_case_name": "guinea"
+    },
+    "Guadeloupe": {
+        "two_letter_code": "GP",
+        "camel_case_name": "guadeloupe"
+    },
+    "Gambia": {
+        "two_letter_code": "GM",
+        "camel_case_name": "gambia"
+    },
+    "Guinea-Bissau": {
+        "two_letter_code": "GW",
+        "camel_case_name": "guinea-bissau"
+    },
+    "Equatorial Guinea": {
+        "two_letter_code": "GQ",
+        "camel_case_name": "equatorial_guinea"
+    },
+    "Greece": {
+        "two_letter_code": "GR",
+        "camel_case_name": "greece"
+    },
+    "Grenada": {
+        "two_letter_code": "GD",
+        "camel_case_name": "grenada"
+    },
+    "Greenland": {
+        "two_letter_code": "GL",
+        "camel_case_name": "greenland"
+    },
+    "Guatemala": {
+        "two_letter_code": "GT",
+        "camel_case_name": "guatemala"
+    },
+    "French Guiana": {
+        "two_letter_code": "GF",
+        "camel_case_name": "french_guiana"
+    },
+    "Guam": {
+        "two_letter_code": "GU",
+        "camel_case_name": "guam"
+    },
+    "Guyana": {
+        "two_letter_code": "GY",
+        "camel_case_name": "guyana"
+    },
+    "Hong Kong": {
+        "two_letter_code": "HK",
+        "camel_case_name": "hong_kong"
+    },
+    "Heard Island and McDonald Islands": {
+        "two_letter_code": "HM",
+        "camel_case_name": "heard_island_and_mcdonald_islands"
+    },
+    "Honduras": {
+        "two_letter_code": "HN",
+        "camel_case_name": "honduras"
+    },
+    "Croatia": {
+        "two_letter_code": "HR",
+        "camel_case_name": "croatia"
+    },
+    "Haiti": {
+        "two_letter_code": "HT",
+        "camel_case_name": "haiti"
+    },
+    "Hungary": {
+        "two_letter_code": "HU",
+        "camel_case_name": "hungary"
+    },
+    "Indonesia": {
+        "two_letter_code": "ID",
+        "camel_case_name": "indonesia"
+    },
+    "Isle of Man": {
+        "two_letter_code": "IM",
+        "camel_case_name": "isle_of_man"
+    },
+    "India": {
+        "two_letter_code": "IN",
+        "camel_case_name": "india"
+    },
+    "British Indian Ocean Territory": {
+        "two_letter_code": "IO",
+        "camel_case_name": "british_indian_ocean_territory"
+    },
+    "Ireland": {
+        "two_letter_code": "IE",
+        "camel_case_name": "ireland"
+    },
+    "Iran, Islamic Republic of": {
+        "two_letter_code": "IR",
+        "camel_case_name": "iran,_islamic_republic_of"
+    },
+    "Iraq": {
+        "two_letter_code": "IQ",
+        "camel_case_name": "iraq"
+    },
+    "Iceland": {
+        "two_letter_code": "IS",
+        "camel_case_name": "iceland"
+    },
+    "Israel": {
+        "two_letter_code": "IL",
+        "camel_case_name": "israel"
+    },
+    "Italy": {
+        "two_letter_code": "IT",
+        "camel_case_name": "italy"
+    },
+    "Jamaica": {
+        "two_letter_code": "JM",
+        "camel_case_name": "jamaica"
+    },
+    "Jersey": {
+        "two_letter_code": "JE",
+        "camel_case_name": "jersey"
+    },
+    "Jordan": {
+        "two_letter_code": "JO",
+        "camel_case_name": "jordan"
+    },
+    "Japan": {
+        "two_letter_code": "JP",
+        "camel_case_name": "japan"
+    },
+    "Kazakhstan": {
+        "two_letter_code": "KZ",
+        "camel_case_name": "kazakhstan"
+    },
+    "Kenya": {
+        "two_letter_code": "KE",
+        "camel_case_name": "kenya"
+    },
+    "Kyrgyzstan": {
+        "two_letter_code": "KG",
+        "camel_case_name": "kyrgyzstan"
+    },
+    "Cambodia": {
+        "two_letter_code": "KH",
+        "camel_case_name": "cambodia"
+    },
+    "Kiribati": {
+        "two_letter_code": "KI",
+        "camel_case_name": "kiribati"
+    },
+    "Saint Kitts and Nevis": {
+        "two_letter_code": "KN",
+        "camel_case_name": "saint_kitts_and_nevis"
+    },
+    "Korea, Republic of": {
+        "two_letter_code": "KR",
+        "camel_case_name": "korea,_republic_of"
+    },
+    "Kuwait": {
+        "two_letter_code": "KW",
+        "camel_case_name": "kuwait"
+    },
+    "Lao People's Democratic Republic": {
+        "two_letter_code": "LA",
+        "camel_case_name": "lao_people's_democratic_republic"
+    },
+    "Lebanon": {
+        "two_letter_code": "LB",
+        "camel_case_name": "lebanon"
+    },
+    "Liberia": {
+        "two_letter_code": "LR",
+        "camel_case_name": "liberia"
+    },
+    "Libya": {
+        "two_letter_code": "LY",
+        "camel_case_name": "libya"
+    },
+    "Saint Lucia": {
+        "two_letter_code": "LC",
+        "camel_case_name": "saint_lucia"
+    },
+    "Liechtenstein": {
+        "two_letter_code": "LI",
+        "camel_case_name": "liechtenstein"
+    },
+    "Sri Lanka": {
+        "two_letter_code": "LK",
+        "camel_case_name": "sri_lanka"
+    },
+    "Lesotho": {
+        "two_letter_code": "LS",
+        "camel_case_name": "lesotho"
+    },
+    "Lithuania": {
+        "two_letter_code": "LT",
+        "camel_case_name": "lithuania"
+    },
+    "Luxembourg": {
+        "two_letter_code": "LU",
+        "camel_case_name": "luxembourg"
+    },
+    "Latvia": {
+        "two_letter_code": "LV",
+        "camel_case_name": "latvia"
+    },
+    "Macao": {
+        "two_letter_code": "MO",
+        "camel_case_name": "macao"
+    },
+    "Saint Martin (French part)": {
+        "two_letter_code": "MF",
+        "camel_case_name": "saint_martin_(french_part)"
+    },
+    "Morocco": {
+        "two_letter_code": "MA",
+        "camel_case_name": "morocco"
+    },
+    "Monaco": {
+        "two_letter_code": "MC",
+        "camel_case_name": "monaco"
+    },
+    "Moldova, Republic of": {
+        "two_letter_code": "MD",
+        "camel_case_name": "moldova,_republic_of"
+    },
+    "Madagascar": {
+        "two_letter_code": "MG",
+        "camel_case_name": "madagascar"
+    },
+    "Maldives": {
+        "two_letter_code": "MV",
+        "camel_case_name": "maldives"
+    },
+    "Mexico": {
+        "two_letter_code": "MX",
+        "camel_case_name": "mexico"
+    },
+    "Marshall Islands": {
+        "two_letter_code": "MH",
+        "camel_case_name": "marshall_islands"
+    },
+    "North Macedonia": {
+        "two_letter_code": "MK",
+        "camel_case_name": "north_macedonia"
+    },
+    "Mali": {
+        "two_letter_code": "ML",
+        "camel_case_name": "mali"
+    },
+    "Malta": {
+        "two_letter_code": "MT",
+        "camel_case_name": "malta"
+    },
+    "Myanmar": {
+        "two_letter_code": "MM",
+        "camel_case_name": "myanmar"
+    },
+    "Montenegro": {
+        "two_letter_code": "ME",
+        "camel_case_name": "montenegro"
+    },
+    "Mongolia": {
+        "two_letter_code": "MN",
+        "camel_case_name": "mongolia"
+    },
+    "Northern Mariana Islands": {
+        "two_letter_code": "MP",
+        "camel_case_name": "northern_mariana_islands"
+    },
+    "Mozambique": {
+        "two_letter_code": "MZ",
+        "camel_case_name": "mozambique"
+    },
+    "Mauritania": {
+        "two_letter_code": "MR",
+        "camel_case_name": "mauritania"
+    },
+    "Montserrat": {
+        "two_letter_code": "MS",
+        "camel_case_name": "montserrat"
+    },
+    "Martinique": {
+        "two_letter_code": "MQ",
+        "camel_case_name": "martinique"
+    },
+    "Mauritius": {
+        "two_letter_code": "MU",
+        "camel_case_name": "mauritius"
+    },
+    "Malawi": {
+        "two_letter_code": "MW",
+        "camel_case_name": "malawi"
+    },
+    "Malaysia": {
+        "two_letter_code": "MY",
+        "camel_case_name": "malaysia"
+    },
+    "Mayotte": {
+        "two_letter_code": "YT",
+        "camel_case_name": "mayotte"
+    },
+    "Namibia": {
+        "two_letter_code": "NA",
+        "camel_case_name": "namibia"
+    },
+    "New Caledonia": {
+        "two_letter_code": "NC",
+        "camel_case_name": "new_caledonia"
+    },
+    "Niger": {
+        "two_letter_code": "NE",
+        "camel_case_name": "niger"
+    },
+    "Norfolk Island": {
+        "two_letter_code": "NF",
+        "camel_case_name": "norfolk_island"
+    },
+    "Nigeria": {
+        "two_letter_code": "NG",
+        "camel_case_name": "nigeria"
+    },
+    "Nicaragua": {
+        "two_letter_code": "NI",
+        "camel_case_name": "nicaragua"
+    },
+    "Niue": {
+        "two_letter_code": "NU",
+        "camel_case_name": "niue"
+    },
+    "Netherlands": {
+        "two_letter_code": "NL",
+        "camel_case_name": "netherlands"
+    },
+    "Norway": {
+        "two_letter_code": "NO",
+        "camel_case_name": "norway"
+    },
+    "Nepal": {
+        "two_letter_code": "NP",
+        "camel_case_name": "nepal"
+    },
+    "Nauru": {
+        "two_letter_code": "NR",
+        "camel_case_name": "nauru"
+    },
+    "New Zealand": {
+        "two_letter_code": "NZ",
+        "camel_case_name": "new_zealand"
+    },
+    "Oman": {
+        "two_letter_code": "OM",
+        "camel_case_name": "oman"
+    },
+    "Pakistan": {
+        "two_letter_code": "PK",
+        "camel_case_name": "pakistan"
+    },
+    "Panama": {
+        "two_letter_code": "PA",
+        "camel_case_name": "panama"
+    },
+    "Pitcairn": {
+        "two_letter_code": "PN",
+        "camel_case_name": "pitcairn"
+    },
+    "Peru": {
+        "two_letter_code": "PE",
+        "camel_case_name": "peru"
+    },
+    "Philippines": {
+        "two_letter_code": "PH",
+        "camel_case_name": "philippines"
+    },
+    "Palau": {
+        "two_letter_code": "PW",
+        "camel_case_name": "palau"
+    },
+    "Papua New Guinea": {
+        "two_letter_code": "PG",
+        "camel_case_name": "papua_new_guinea"
+    },
+    "Poland": {
+        "two_letter_code": "PL",
+        "camel_case_name": "poland"
+    },
+    "Puerto Rico": {
+        "two_letter_code": "PR",
+        "camel_case_name": "puerto_rico"
+    },
+    "Korea, Democratic People's Republic of": {
+        "two_letter_code": "KP",
+        "camel_case_name": "korea,_democratic_people's_republic_of"
+    },
+    "Portugal": {
+        "two_letter_code": "PT",
+        "camel_case_name": "portugal"
+    },
+    "Paraguay": {
+        "two_letter_code": "PY",
+        "camel_case_name": "paraguay"
+    },
+    "Palestine, State of": {
+        "two_letter_code": "PS",
+        "camel_case_name": "palestine,_state_of"
+    },
+    "French Polynesia": {
+        "two_letter_code": "PF",
+        "camel_case_name": "french_polynesia"
+    },
+    "Qatar": {
+        "two_letter_code": "QA",
+        "camel_case_name": "qatar"
+    },
+    "R\u00e9union": {
+        "two_letter_code": "RE",
+        "camel_case_name": "r\u00e9union"
+    },
+    "Romania": {
+        "two_letter_code": "RO",
+        "camel_case_name": "romania"
+    },
+    "Russian Federation": {
+        "two_letter_code": "RU",
+        "camel_case_name": "russian_federation"
+    },
+    "Rwanda": {
+        "two_letter_code": "RW",
+        "camel_case_name": "rwanda"
+    },
+    "Saudi Arabia": {
+        "two_letter_code": "SA",
+        "camel_case_name": "saudi_arabia"
+    },
+    "Sudan": {
+        "two_letter_code": "SD",
+        "camel_case_name": "sudan"
+    },
+    "Senegal": {
+        "two_letter_code": "SN",
+        "camel_case_name": "senegal"
+    },
+    "Singapore": {
+        "two_letter_code": "SG",
+        "camel_case_name": "singapore"
+    },
+    "South Georgia and the South Sandwich Islands": {
+        "two_letter_code": "GS",
+        "camel_case_name": "south_georgia_and_the_south_sandwich_islands"
+    },
+    "Saint Helena, Ascension and Tristan da Cunha": {
+        "two_letter_code": "SH",
+        "camel_case_name": "saint_helena,_ascension_and_tristan_da_cunha"
+    },
+    "Svalbard and Jan Mayen": {
+        "two_letter_code": "SJ",
+        "camel_case_name": "svalbard_and_jan_mayen"
+    },
+    "Solomon Islands": {
+        "two_letter_code": "SB",
+        "camel_case_name": "solomon_islands"
+    },
+    "Sierra Leone": {
+        "two_letter_code": "SL",
+        "camel_case_name": "sierra_leone"
+    },
+    "El Salvador": {
+        "two_letter_code": "SV",
+        "camel_case_name": "el_salvador"
+    },
+    "San Marino": {
+        "two_letter_code": "SM",
+        "camel_case_name": "san_marino"
+    },
+    "Somalia": {
+        "two_letter_code": "SO",
+        "camel_case_name": "somalia"
+    },
+    "Saint Pierre and Miquelon": {
+        "two_letter_code": "PM",
+        "camel_case_name": "saint_pierre_and_miquelon"
+    },
+    "Serbia": {
+        "two_letter_code": "RS",
+        "camel_case_name": "serbia"
+    },
+    "South Sudan": {
+        "two_letter_code": "SS",
+        "camel_case_name": "south_sudan"
+    },
+    "Sao Tome and Principe": {
+        "two_letter_code": "ST",
+        "camel_case_name": "sao_tome_and_principe"
+    },
+    "Suriname": {
+        "two_letter_code": "SR",
+        "camel_case_name": "suriname"
+    },
+    "Slovakia": {
+        "two_letter_code": "SK",
+        "camel_case_name": "slovakia"
+    },
+    "Slovenia": {
+        "two_letter_code": "SI",
+        "camel_case_name": "slovenia"
+    },
+    "Sweden": {
+        "two_letter_code": "SE",
+        "camel_case_name": "sweden"
+    },
+    "Eswatini": {
+        "two_letter_code": "SZ",
+        "camel_case_name": "eswatini"
+    },
+    "Sint Maarten (Dutch part)": {
+        "two_letter_code": "SX",
+        "camel_case_name": "sint_maarten_(dutch_part)"
+    },
+    "Seychelles": {
+        "two_letter_code": "SC",
+        "camel_case_name": "seychelles"
+    },
+    "Syrian Arab Republic": {
+        "two_letter_code": "SY",
+        "camel_case_name": "syrian_arab_republic"
+    },
+    "Turks and Caicos Islands": {
+        "two_letter_code": "TC",
+        "camel_case_name": "turks_and_caicos_islands"
+    },
+    "Chad": {
+        "two_letter_code": "TD",
+        "camel_case_name": "chad"
+    },
+    "Togo": {
+        "two_letter_code": "TG",
+        "camel_case_name": "togo"
+    },
+    "Thailand": {
+        "two_letter_code": "TH",
+        "camel_case_name": "thailand"
+    },
+    "Tajikistan": {
+        "two_letter_code": "TJ",
+        "camel_case_name": "tajikistan"
+    },
+    "Tokelau": {
+        "two_letter_code": "TK",
+        "camel_case_name": "tokelau"
+    },
+    "Turkmenistan": {
+        "two_letter_code": "TM",
+        "camel_case_name": "turkmenistan"
+    },
+    "Timor-Leste": {
+        "two_letter_code": "TL",
+        "camel_case_name": "timor-leste"
+    },
+    "Tonga": {
+        "two_letter_code": "TO",
+        "camel_case_name": "tonga"
+    },
+    "Trinidad and Tobago": {
+        "two_letter_code": "TT",
+        "camel_case_name": "trinidad_and_tobago"
+    },
+    "Tunisia": {
+        "two_letter_code": "TN",
+        "camel_case_name": "tunisia"
+    },
+    "T\u00fcrkiye": {
+        "two_letter_code": "TR",
+        "camel_case_name": "t\u00fcrkiye"
+    },
+    "Tuvalu": {
+        "two_letter_code": "TV",
+        "camel_case_name": "tuvalu"
+    },
+    "Taiwan, Province of China": {
+        "two_letter_code": "TW",
+        "camel_case_name": "taiwan,_province_of_china"
+    },
+    "Tanzania, United Republic of": {
+        "two_letter_code": "TZ",
+        "camel_case_name": "tanzania,_united_republic_of"
+    },
+    "Uganda": {
+        "two_letter_code": "UG",
+        "camel_case_name": "uganda"
+    },
+    "Ukraine": {
+        "two_letter_code": "UA",
+        "camel_case_name": "ukraine"
+    },
+    "United States Minor Outlying Islands": {
+        "two_letter_code": "UM",
+        "camel_case_name": "united_states_minor_outlying_islands"
+    },
+    "Uruguay": {
+        "two_letter_code": "UY",
+        "camel_case_name": "uruguay"
+    },
+    "United States": {
+        "two_letter_code": "US",
+        "camel_case_name": "united_states"
+    },
+    "Uzbekistan": {
+        "two_letter_code": "UZ",
+        "camel_case_name": "uzbekistan"
+    },
+    "Holy See (Vatican City State)": {
+        "two_letter_code": "VA",
+        "camel_case_name": "holy_see_(vatican_city_state)"
+    },
+    "Saint Vincent and the Grenadines": {
+        "two_letter_code": "VC",
+        "camel_case_name": "saint_vincent_and_the_grenadines"
+    },
+    "Venezuela, Bolivarian Republic of": {
+        "two_letter_code": "VE",
+        "camel_case_name": "venezuela,_bolivarian_republic_of"
+    },
+    "Virgin Islands, British": {
+        "two_letter_code": "VG",
+        "camel_case_name": "virgin_islands,_british"
+    },
+    "Virgin Islands, U.S.": {
+        "two_letter_code": "VI",
+        "camel_case_name": "virgin_islands,_u.s."
+    },
+    "Viet Nam": {
+        "two_letter_code": "VN",
+        "camel_case_name": "viet_nam"
+    },
+    "Vanuatu": {
+        "two_letter_code": "VU",
+        "camel_case_name": "vanuatu"
+    },
+    "Wallis and Futuna": {
+        "two_letter_code": "WF",
+        "camel_case_name": "wallis_and_futuna"
+    },
+    "Samoa": {
+        "two_letter_code": "WS",
+        "camel_case_name": "samoa"
+    },
+    "Yemen": {
+        "two_letter_code": "YE",
+        "camel_case_name": "yemen"
+    },
+    "South Africa": {
+        "two_letter_code": "ZA",
+        "camel_case_name": "south_africa"
+    },
+    "Zambia": {
+        "two_letter_code": "ZM",
+        "camel_case_name": "zambia"
+    },
+    "Zimbabwe": {
+        "two_letter_code": "ZW",
+        "camel_case_name": "zimbabwe"
+    }
+}

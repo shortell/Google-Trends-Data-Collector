@@ -1,0 +1,8 @@
+pytrends
+psycopg2
+pyyaml
+Flask
+Flask-cors
+flask-restful
+flask_apscheduler
+python-dotenv
